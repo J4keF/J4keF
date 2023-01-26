@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" fill="none" role="img" aria-labelledby="descId">
-  <title id="titleId">Jake Fogel's GitHub Stats, Rank: A+</title>
-  <desc id="descId">Total Stars Earned: 1, Total Commits in 2023 : 1, Total PRs: 1, Total Issues: 0, Contributed to (last year): 1</desc>
-  <style>
-    .header {
-      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-      fill: #e2e9ec;
-      animation: fadeInAnimation 0.8s ease-in-out forwards;
-    }
-    @supports(-moz-appearance: auto) {
-      /* Selector detects Firefox */
-      .header { font-size: 15.5px; }
-    }
+        <title id="titleId">Jake Fogel's GitHub Stats, Rank: A+</title>
+        <desc id="descId">Total Stars Earned: 1, Total Commits in 2023 : 1, Total PRs: 1, Total Issues: 0, Contributed to (last year): 1</desc>
+        <style>
+          .header {
+            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+            fill: #e2e9ec;
+            animation: fadeInAnimation 0.8s ease-in-out forwards;
+          }
+          @supports(-moz-appearance: auto) {
+            /* Selector detects Firefox */
+            .header { font-size: 15.5px; }
+          }
           
     .stat {
       font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #e5289e;
@@ -81,25 +81,28 @@
       to {
         opacity: 1;
       }
-    }      
-    </style>
+    }
+  
+          
+        </style>
 
         
 
-    <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#2b213a" stroke-opacity="1"/>
+        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#2b213a" stroke-opacity="1"/>
 
-
-    <g data-testid="card-title" transform="translate(25, 35)">
-      <g transform="translate(0, 0)">
-        <text x="0" y="0" class="header" data-testid="header">Jake Fogel's GitHub Stats</text>
-      </g>
+        
+      <g data-testid="card-title" transform="translate(25, 35)">
+        <g transform="translate(0, 0)">
+      <text x="0" y="0" class="header" data-testid="header">Jake Fogel's GitHub Stats</text>
     </g>
+      </g>
     
 
-    <g data-testid="main-card-body" transform="translate(0, 55)"> 
-        <g data-testid="rank-circle" transform="translate(390.5, 47.5)">
-          <circle class="rank-circle-rim" cx="-10" cy="8" r="40"/>
-          <circle class="rank-circle" cx="-10" cy="8" r="40"/>
+        <g data-testid="main-card-body" transform="translate(0, 55)">
+          
+    <g data-testid="rank-circle" transform="translate(390.5, 47.5)">
+        <circle class="rank-circle-rim" cx="-10" cy="8" r="40"/>
+        <circle class="rank-circle" cx="-10" cy="8" r="40"/>
         <g class="rank-text">
           <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle">
             A+
