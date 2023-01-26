@@ -31,11 +31,11 @@ I'm a Computer Science student at McGill University. I love tackling challenging
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"/>
 
+<br />
 
----
+#
 
 ### 📊 Stats
 
-![J4keF's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4keF&show_icons=true&theme=synthwave)
-<img src="https://github.com/J4keF/J4keF/blob/795e902abf2baa6272ad671570f0af037769372d/customStatus.svg?sanitize=true">
-#
+<img src="https://github.com/J4keF/J4keF/blob/57bb91b6871fd9396cd8eccd04e105a4cf9c88a3/customStatus.svg?sanitize=true">
+
