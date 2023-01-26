@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="467" height="195" viewBox="0 0 467 195" fill="none" role="img" aria-labelledby="descId">
-        <title id="titleId">Jake Fogel's GitHub Stats, Rank: A+</title>
+        <title id="titleId">Jake Fogel's GitHub Stats, Rank: S</title>
         <desc id="descId">Total Stars Earned: 1, Total Commits in 2023 : 1, Total PRs: 1, Total Issues: 0, Contributed to (last year): 1</desc>
-        <style>
+        <style xmlns="http://www.w3.org/2000/svg">
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #e2e9ec;
+            fill: #fff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -13,7 +13,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #e5289e;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #fff;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -24,25 +24,25 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #e5289e;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #fff;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #ef8539;
+      fill: #ffffff;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #e2e9ec;
+      stroke: #fff;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #e2e9ec;
+      stroke: #fff;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -58,7 +58,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 127.72464918064362;
+        stroke-dashoffset: 6.211920331328005;
       }
     }
   
@@ -86,9 +86,13 @@
           
         </style>
 
-        
+        <defs xmlns="http://www.w3.org/2000/svg">
+          <linearGradient id="gradient" gradientTransform="rotate(30)" gradientUnits="userSpaceOnUse">
+            <stop offset="0%" stop-color="#e96443"/>,<stop offset="100%" stop-color="#904e95"/>
+          </linearGradient>
+        </defs>
 
-        <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="466" fill="#2b213a" stroke-opacity="1"/>
+        <rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="449" fill="url(#gradient)" stroke-opacity="1"/>
 
         
       <g data-testid="card-title" transform="translate(25, 35)">
@@ -98,7 +102,7 @@
       </g>
     
 
-        <g data-testid="main-card-body" transform="translate(0, 55)">
+        <g xmlns="http://www.w3.org/2000/svg" data-testid="main-card-body" transform="translate(0, 55)">
           
     <g data-testid="rank-circle" transform="translate(390.5, 47.5)">
         <circle class="rank-circle-rim" cx="-10" cy="8" r="40"/>
