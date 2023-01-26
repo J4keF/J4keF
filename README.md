@@ -32,7 +32,7 @@ I'm a Computer Science student at McGill University. I love tackling challenging
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"/>
 
 
-#
+---
 
 ### 📊 Stats
 
