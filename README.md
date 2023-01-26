@@ -37,5 +37,5 @@ I'm a Computer Science student at McGill University. I love tackling challenging
 ### 📊 Stats
 
 ![J4keF's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4keF&show_icons=true&theme=synthwave)
-<img src="https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg?sanitize=true">
+<img src="https://github.com/J4keF/J4keF/blob/795e902abf2baa6272ad671570f0af037769372d/customStatus.svg?sanitize=true">
 #
