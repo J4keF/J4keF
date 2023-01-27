@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science student at McGill University. I love tackling challenging <br> software projects and creating projects from the ground up, with real applications.
+I'm a Computer Science student at McGill University. I love tackling challenging <br> software projects and creating programs from the ground up, with real applications.
 
 ---
 
