@@ -37,5 +37,5 @@ I'm a Computer Science student at McGill University. I love tackling challenging
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=radical&bg_color=#feda75,#fa7e1e,#d62976,#962fbf,#4f5bd5&count_private=true&custom_title=👾<username>GitHubStats)
+![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4keF&show_icons=true&theme=radical&bg_color=#feda75,#fa7e1e,#d62976,#962fbf,#4f5bd5&count_private=true&custom_title=👾<username>GitHubStats)
 
