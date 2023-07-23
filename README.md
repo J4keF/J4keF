@@ -1,6 +1,6 @@
 ### 🧗‍♂️ Jake Fogel
 
-**`Software Programmer and Computer Science Student`**
+**`Software Developer and Computer Science Student`**
 
 <!--
 **J4keF/J4keF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Science student at McGill University. I love tackling challenging <br> software projects and creating programs from the ground up, with real applications.
+I'm a Computer Science student at McGill University and a software developer. I love tackling challenging <br> software projects and creating programs from the ground up, with real-world applications.
 
 ---
 
@@ -35,7 +35,7 @@ I'm a Computer Science student at McGill University. I love tackling challenging
 
 #
 
-### 📊 Stats
+<!--### 📊 Stats-->
 
-![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4keF&show_icons=true&theme=radical&bg_color=45,d62976,fa7e1e,feda75&count_private=true&text_color=ffffff&title_color=ffffff)
+<!--![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=J4keF&show_icons=true&theme=radical&bg_color=45,d62976,fa7e1e,feda75&count_private=true&text_color=ffffff&title_color=ffffff)<!--
 
